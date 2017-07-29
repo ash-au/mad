@@ -1,0 +1,22 @@
+{
+  "name": "mad",
+  "version": "0.0.1",
+  "description": "Messaging API Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash-au/mad.git"
+  },
+  "keywords": [
+    "messaging"
+  ],
+  "author": "Ashish Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ash-au/mad/issues"
+  },
+  "homepage": "https://github.com/ash-au/mad#readme"
+}
