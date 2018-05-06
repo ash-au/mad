@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/ash-au/mad.git"
   },
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^1.7.4"
+  },
   "keywords": [
     "messaging"
   ],
